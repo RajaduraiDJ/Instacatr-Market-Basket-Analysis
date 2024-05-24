@@ -1,2 +1,2 @@
 # Instacatr-Market-Basket-Analysis
-This capstone project focuses on conducting an extensive data analysis of Instacart’s grocery ordering data.
+This capstone project focuses on conducting an extensive data analysis of Instacart’s grocery ordering data.The main objective for Business Analysts is to provide comprehensive insights into customer behavior, product popularity, order patterns, and departmental performance through interactive visualizations using tools like Power BI or Tableau. Business Analysts will create dashboards that offer a 360-degree view of the business, aiding in strategic decision-making and identifying opportunities for growth and improvement.
